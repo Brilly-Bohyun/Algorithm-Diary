@@ -1,4 +1,4 @@
-# AlgorithmDiary
+# Algorithm-Diary
 1day 1Algorithm
 
 <div align="center">
