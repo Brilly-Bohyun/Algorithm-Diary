@@ -14,9 +14,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="C:\Users\qhgus\Downloads\블로그 관리\KakaoTalk_20230113_181629162.png""width="100px;" alt=""/><br /><sub><b>STUDY 팀장 : 김민우</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="img/minukim.png""width="100px;" alt=""/><br /><sub><b>STUDY 팀장 : 김민우</b></sub></a><br /></td>
       <td align="center"><a href=""><img src=""width="100px;" alt=""/><br /><sub><b>STUDY 팀원 : 길가은</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="C:\Users\qhgus\Downloads\블로그 관리\KakaoTalk_20230113_174720037.png"" width="100px;" alt=""/><br /><sub><b>STUDY 팀원 : 최보</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="img/bohyunchoi.png"" width="100px;" alt=""/><br /><sub><b>STUDY 팀원 : 최보</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
