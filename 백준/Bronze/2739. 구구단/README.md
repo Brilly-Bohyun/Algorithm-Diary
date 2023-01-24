@@ -1,4 +1,4 @@
-# [Bronze V] 구구단 - 2739 
+# 구구단 - 2739 
 
 [문제 링크](https://www.acmicpc.net/problem/2739) 
 
