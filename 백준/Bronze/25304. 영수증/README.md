@@ -1,4 +1,4 @@
-# [Bronze V] 영수증 - 25304 
+# 영수증 - 25304 
 
 [문제 링크](https://www.acmicpc.net/problem/25304) 
 
