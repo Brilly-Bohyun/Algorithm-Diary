@@ -1,4 +1,4 @@
-# [Bronze IV] 빠른 A+B - 15552 
+# 빠른 A+B - 15552 
 
 [문제 링크](https://www.acmicpc.net/problem/15552) 
 
