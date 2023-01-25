@@ -1,4 +1,4 @@
-# [Bronze V] A+B - 8 - 11022 
+# A+B - 8 - 11022 
 
 [문제 링크](https://www.acmicpc.net/problem/11022) 
 
