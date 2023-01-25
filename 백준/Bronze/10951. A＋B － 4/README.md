@@ -1,4 +1,4 @@
-# [Bronze V] A+B - 4 - 10951 
+# A+B - 4 - 10951 
 
 [문제 링크](https://www.acmicpc.net/problem/10951) 
 
