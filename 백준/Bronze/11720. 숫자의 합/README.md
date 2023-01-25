@@ -1,4 +1,4 @@
-# [Bronze IV] 숫자의 합 - 11720 
+# 숫자의 합 - 11720 
 
 [문제 링크](https://www.acmicpc.net/problem/11720) 
 
