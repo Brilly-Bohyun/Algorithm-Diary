@@ -1,4 +1,4 @@
-# [Bronze V] 개수 세기 - 10807 
+# 개수 세기 - 10807 
 
 [문제 링크](https://www.acmicpc.net/problem/10807) 
 
