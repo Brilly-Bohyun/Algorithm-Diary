@@ -15,6 +15,4 @@ int solution(int hp) {
     answer+=hp;
     
     return answer;
-    
-    return answer;
 }
