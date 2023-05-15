@@ -1,0 +1,16 @@
+#include <string>
+#include <vector>
+#include <iostream>
+
+using namespace std;
+
+int solution(string num_str) {
+    int answer = 0;
+    
+    for(int i = 0; i < num_str.size(); i++){
+        cout << num_str[i];
+        answer += num_str[i] - '0';
+    }
+    
+    return answer;
+}
