@@ -17,6 +17,7 @@
       <td align="center"><a href="https://github.com/kmw2378"><img src="img/minukim.png""width="100px;" alt=""/><br /><sub><b>STUDY 팀장 : 김민우</b></sub></a><br /><br /><sub><b><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" /></b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/rlfrkdms1"><img src="img/kaeun.png""width="100px;" alt=""/><br /><sub><b>STUDY 팀원 : 길가은</b></sub></a><br /><br /><sub><b><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" /></b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/Brilly-Bohyun"><img src="img/bohyunchoi.png""width="100px;" alt=""/><br /><sub><b>STUDY 팀원 : 최보현</b></sub></a><br /><br /><sub><b><img src="https://img.shields.io/badge/C++-007396?style=flat&logo=Java&logoColor=white" /></b></sub></a><br /></td>
+	<td align="center"><a href="https://github.com/leeminhee119"><img src="img/minheelee.png""width="100px;" alt=""/><br /><sub><b>STUDY 팀원 : 이민희</b></sub></a><br /><br /><sub><b><img src="https://img.shields.io/badge/Javascript-007396?style=flat&logo=Java&logoColor=white" /></b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
